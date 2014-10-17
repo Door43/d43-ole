@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ole:home|Door43 (ole)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ole|d43-ole repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ole/archive/master.zip|d43-ole.zip]]
+
+**Recent Changes**
+{{changes>ns = ole}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ole|Ethnologue data]]
+
